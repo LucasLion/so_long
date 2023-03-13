@@ -22,8 +22,7 @@ Le joueur peut se déplacer en utilisant les touches directionnelles, et le prog
 ## Sprites
 
 Les sprites utilisés sont ceux du jeu vidéo "Advance Wars 2: Black Hole Rising" sur GameBoy Adance.
-Ils sont disponible pour usage personnel sur le site : www.spritersressources.com
-
+Ils sont disponible pour usage personnel sur le site : https://www.spriters-resource.com/
 ## Conclusion
 
 so_long est un projet amusant et intéressant qui permet de mieux comprendre la programmation en C, l'algorithmique et le graphisme. Le jeu est simple mais efficace, et peut être amélioré pour ajouter de nouvelles fonctionnalités ou pour rendre le gameplay plus intéressant. Le projet est disponible sur la plateforme GitHub de l'école 42 et peut être utilisé comme base pour créer d'autres jeux en ligne de commande.
